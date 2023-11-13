@@ -22,7 +22,7 @@ const Home = () => {
 
   return (
     <div className="container1">
-      <Typography variant="h5" gutterBottom>
+      <Typography variant="h4" gutterBottom>
         Hi, I am Ujwal.
         Welcome to my Website
       </Typography>

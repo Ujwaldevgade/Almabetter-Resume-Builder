@@ -5,17 +5,7 @@
   text-align: center;
   background-color: #f7f7f7;
 }
-.container0 {
-  background-color: #f0f0f0;
-  padding: 20px;
-  text-align: center;
-  font-size: 1.5em;
-}
 
-/* Add this new style for the welcome message */
-.container0 {
-  margin-top: 20px; /* Adjust as needed for spacing */
-}
 .template1 {
   position: relative;
   display: flex;

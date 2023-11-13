@@ -21,12 +21,6 @@ const Home = () => {
   };
 
   return (
-    <div>
-    <div className="container0">
-        Hi, I am Ujwal.
-        Welcome to my Website
-    </div>
-    </div>
     <div className="container1">
       <Typography variant="h4" gutterBottom>
         Select a Resume Template

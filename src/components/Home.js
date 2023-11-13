@@ -22,11 +22,11 @@ const Home = () => {
 
   return (
     <div className="container1">
-      <Typography variant="h4" gutterBottom>
+      <Typography variant="h5" gutterBottom>
         Hi, I am Ujwal.
         Welcome to my Website
       </Typography>
-      <Typography variant="h5" gutterBottom>
+      <Typography variant="h6" gutterBottom>
         Select a Resume Template below
       </Typography>
       <Grid container spacing={3}>

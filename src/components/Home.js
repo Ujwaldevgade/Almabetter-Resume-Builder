@@ -22,7 +22,7 @@ const Home = () => {
 
   return (
     <div className="container0">
-        Hi, I am Ujwal
+        Hi, I am Ujwal.
         Welcome to my Website
     </div>
     <div className="container1">

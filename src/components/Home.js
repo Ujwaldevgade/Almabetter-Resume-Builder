@@ -21,9 +21,10 @@ const Home = () => {
   };
 
   return (
+  <div>
     <div className="container0">
-        Hi, i am Ujwal
-        Welcome to my Website
+      Hi, I am Ujwal. 
+      Welcome to my Website
     </div>
     <div className="container1">
       <Typography variant="h4" gutterBottom>

@@ -23,7 +23,11 @@ const Home = () => {
   return (
     <div className="container1">
       <Typography variant="h4" gutterBottom>
-        Select a Resume Template
+        Hi, I am Ujwal.
+        Welcome to my Website
+      </Typography>
+      <Typography variant="h6" gutterBottom>
+        Select a Resume Template below
       </Typography>
       <Grid container spacing={3}>
         {resumeTemplates.map((template) => (

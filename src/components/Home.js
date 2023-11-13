@@ -21,10 +21,12 @@ const Home = () => {
   };
 
   return (
-    <div className="container1">
-      <Typography variant="h4" gutterBottom>
+    <div className="container0">
         Hi, i am Ujwal
         Welcome to my Website
+    </div>
+    <div className="container1">
+      <Typography variant="h4" gutterBottom>
         Select a Resume Template
       </Typography>
       <Grid container spacing={3}>
